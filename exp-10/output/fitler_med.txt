@@ -1,0 +1,2 @@
+1	RxMoari	12	cold
+2	RxSom	14	cold

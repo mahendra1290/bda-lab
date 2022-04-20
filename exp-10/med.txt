@@ -1,0 +1,6 @@
+001,RxMoari,12,cold
+002,RxSom,14,cold
+003,Randome,19,flu
+011,Moari,120,flu
+012,RSom,140,fever
+013,Rndome,190,fever

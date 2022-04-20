@@ -1,0 +1,3 @@
+flu	{(11,Moari,120,flu),(3,Randome,19,flu)}
+cold	{(2,RxSom,14,cold),(1,RxMoari,12,cold)}
+fever	{(13,Rndome,190,fever),(12,RSom,140,fever)}
