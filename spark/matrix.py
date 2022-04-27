@@ -20,14 +20,9 @@ def to_matrix_b(x):
     j, k, v = x.split()
     return (j, (k, v))
 
-def to_matrix_entry(x):
-    i, j, v = x.split()
-    return MatrixEntry(i, j, v)
-
 entries_a = matrix_a_raw.map(to_matrix_a)
 
 entries_b = matrix_b_raw.map(to_matrix_b)
-
 
 print(entries_a.collect())
 
