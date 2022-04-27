@@ -1,7 +1,5 @@
 # BDA Lab
 
-## Spark run
-
 ### Matrix multiplication
 
 Matrix files are matrixA.txt and matrixB.txt
