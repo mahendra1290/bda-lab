@@ -4,6 +4,8 @@
 
 ### Matrix multiplication
 
+Matrix files are matrixA.txt and matrixB.txt
+
 ```
 $ cd spark
 $ spark-submit matrix.py
